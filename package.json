@@ -1,0 +1,26 @@
+{
+  "name": "ultra-guard-obfuscation-bot",
+  "version": "3.0.0",
+  "description": "Telegram Bot for Ultra Guard Obfuscation - 40KB to 10MB",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "dev": "nodemon bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0",
+    "javascript-obfuscator": "^4.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "obfuscator",
+    "javascript",
+    "ultra-guard"
+  ],
+  "author": "Syed hacker",
+  "license": "MIT"
+}
